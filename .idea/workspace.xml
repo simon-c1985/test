@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0757250c-cc6f-4e89-bafa-41d712d2e963" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="learn" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W9rcCcVDVLqT5cPAbu8ejAjIZo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\simon\IdeaProjects\learn" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.AI">
+    <configuration name="309 309.Robot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IntrodactionToStrings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/python/обучение/Udemy - Python Bootcamp 2019. Создадим 15 работающих приложений и игр (2019)/33 Turtle graphics" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:/python/обучение/Udemy - Python Bootcamp 2019. Создадим 15 работающих приложений и игр (2019)/33 Turtle graphics/309 309.Robot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="376 376.egg-catcher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IntrodactionToStrings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/python/обучение/Udemy - Python Bootcamp 2019. Создадим 15 работающих приложений и игр (2019)/39 Project-13 Egg catcher game" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:/python/обучение/Udemy - Python Bootcamp 2019. Создадим 15 работающих приложений и игр (2019)/39 Project-13 Egg catcher game/376 376.egg-catcher.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IntrodactionToStrings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CSV" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IntrodactionToStrings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CSV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="beautiful_soup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IntrodactionToStrings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beautiful_soup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.AI" />
+        <item itemvalue="Python.309 309.Robot" />
+        <item itemvalue="Python.beautiful_soup" />
+        <item itemvalue="Python.CSV" />
+        <item itemvalue="Python.376 376.egg-catcher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0757250c-cc6f-4e89-bafa-41d712d2e963" name="Default Changelist" comment="" />
+      <created>1578572728442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578572728442</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="199" key="#Inspections" timestamp="1578774646843">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="199" key="#Inspections/0.0.1920.1080/-1920.0.1858.1080@0.0.1920.1080" timestamp="1578774646843" />
+    <state x="679" y="147" key="#Unittests_in_test.py" timestamp="1579006760098">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="679" y="147" key="#Unittests_in_test.py/0.0.1920.1080/-1920.0.1858.1080@0.0.1920.1080" timestamp="1579006760098" />
+    <state x="-1537" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578572951440">
+      <screen x="-1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1537" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1578572951440" />
+    <state x="729" y="343" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579003570657">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="729" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/-1920.0.1858.1080@0.0.1920.1080" timestamp="1579003570657" />
+    <state x="833" y="293" key="#xdebugger.XInspectDialog" timestamp="1579009622345">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="833" y="293" key="#xdebugger.XInspectDialog/0.0.1920.1080/-1920.0.1858.1080@0.0.1920.1080" timestamp="1579009622345" />
+    <state width="1815" height="302" key="GridCell.Tab.0.bottom" timestamp="1580032223558">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="302" key="GridCell.Tab.0.bottom/0.0.1858.1080/-1920.0.1920.1080@0.0.1858.1080" timestamp="1580032223558" />
+    <state width="1815" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1578740070673" />
+    <state width="1877" height="302" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1858.1080@0.0.1920.1080" timestamp="1579094785230" />
+    <state width="1815" height="302" key="GridCell.Tab.0.center" timestamp="1580032223558">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="302" key="GridCell.Tab.0.center/0.0.1858.1080/-1920.0.1920.1080@0.0.1858.1080" timestamp="1580032223558" />
+    <state width="1815" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1578740070673" />
+    <state width="1877" height="302" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1858.1080@0.0.1920.1080" timestamp="1579094785230" />
+    <state width="1815" height="302" key="GridCell.Tab.0.left" timestamp="1580032223557">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="302" key="GridCell.Tab.0.left/0.0.1858.1080/-1920.0.1920.1080@0.0.1858.1080" timestamp="1580032223557" />
+    <state width="1815" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1578740070673" />
+    <state width="1877" height="302" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1858.1080@0.0.1920.1080" timestamp="1579094785230" />
+    <state width="1815" height="302" key="GridCell.Tab.0.right" timestamp="1580032223558">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="302" key="GridCell.Tab.0.right/0.0.1858.1080/-1920.0.1920.1080@0.0.1858.1080" timestamp="1580032223558" />
+    <state width="1815" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1578740070673" />
+    <state width="1877" height="302" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1858.1080@0.0.1920.1080" timestamp="1579094785230" />
+    <state width="1877" height="364" key="GridCell.Tab.1.bottom" timestamp="1579011971498">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1858.1080@0.0.1920.1080" timestamp="1579011971498" />
+    <state width="1877" height="364" key="GridCell.Tab.1.center" timestamp="1579011971498">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1858.1080@0.0.1920.1080" timestamp="1579011971498" />
+    <state width="1877" height="364" key="GridCell.Tab.1.left" timestamp="1579011971498">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1858.1080@0.0.1920.1080" timestamp="1579011971498" />
+    <state width="1877" height="364" key="GridCell.Tab.1.right" timestamp="1579011971498">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1858.1080@0.0.1920.1080" timestamp="1579011971498" />
+    <state x="-1341" y="230" key="SettingsEditor" timestamp="1580032205655">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1341" y="230" key="SettingsEditor/0.0.1858.1080/-1920.0.1920.1080@0.0.1858.1080" timestamp="1580032205655" />
+    <state x="487" y="245" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1579009710003">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="487" y="245" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1920.1080/-1920.0.1858.1080@0.0.1920.1080" timestamp="1579009710003" />
+    <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1578572736483">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1858.1080@0.0.1920.1080" timestamp="1578572736483" />
+    <state x="531" y="276" width="858" height="603" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1579009290614">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="531" y="276" width="858" height="603" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1080/-1920.0.1858.1080@0.0.1920.1080" timestamp="1579009290614" />
+    <state x="-1690" y="95" width="1644" height="736" key="dock-window-1" timestamp="1579088097718">
+      <screen x="-1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1690" y="95" width="1644" height="736" key="dock-window-1/0.0.1920.1080/-1920.0.1858.1080@0.0.1920.1080" timestamp="1579088097718" />
+    <state x="342" y="242" key="new project wizard" timestamp="1579095224191">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="342" y="242" key="new project wizard/0.0.1920.1080/-1920.0.1858.1080@0.0.1920.1080" timestamp="1579095224191" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1579030237930">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080/-1920.0.1858.1080@0.0.1920.1080" timestamp="1579030237930" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1579087658856">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1858.1080@0.0.1920.1080" timestamp="1579087658856" />
+  </component>
+</project>
